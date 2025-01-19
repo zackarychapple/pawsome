@@ -2,9 +2,7 @@ import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import {
   CatIcon,
-  HeartIcon,
   MessageCircleIcon,
-  PawPrintIcon,
   ShareIcon,
   UsersIcon,
 } from 'lucide-react';
